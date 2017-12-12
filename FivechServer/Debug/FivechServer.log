@@ -1,0 +1,35 @@
+﻿生成启动时间为 2017/12/11 23:59:57。
+     1>项目“D:\Code\FivechServer\FivechServer\FivechServer.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\FivechServer.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         d:\visual_studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\FivechServer.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FivechServerDlg.cpp
+         FivechServerDlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\visual_studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Code\FivechServer\Debug\FivechServer.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\FivechServer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Code\FivechServer\Debug\FivechServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Code\FivechServer\Debug\FivechServer.lib" /MACHINE:X86 Debug\FivechServer.res
+         Debug\FivechServer.exe.embed.manifest.res
+         Debug\Board.obj
+         Debug\FivechServer.obj
+         Debug\FivechServerDlg.obj
+         Debug\Judge.obj
+         Debug\Network.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FivechServer.exe.embed.manifest" /manifest Debug\FivechServer.exe.intermediate.manifest d:\visual_studio\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         FivechServer.vcxproj -> D:\Code\FivechServer\Debug\FivechServer.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\FivechServer.unsuccessfulbuild”。
+         正在对“Debug\FivechServer.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Code\FivechServer\FivechServer\FivechServer.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.73
